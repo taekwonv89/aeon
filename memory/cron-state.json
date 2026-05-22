@@ -7,5 +7,13 @@
     "total_failures": 0,
     "consecutive_failures": 0,
     "success_rate": 1
+  },
+  "morning-brief": {
+    "last_dispatch": "2026-05-22T07:51:56Z",
+    "last_status": "dispatched"
+  },
+  "price-threshold-alert": {
+    "last_dispatch": "2026-05-22T07:51:56Z",
+    "last_status": "dispatched"
   }
 }
