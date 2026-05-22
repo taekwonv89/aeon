@@ -40,7 +40,7 @@ skills:
   monitor-runners: { enabled: false, schedule: "0 12 * * *" }
   token-pick: { enabled: false, schedule: "0 12 * * *" }
   token-report: { enabled: true, schedule: "30 12 * * *", model: "claude-sonnet-4-6" }
-  price-threshold-alert: { enabled: true, schedule: "*/30 * * * *", model: "claude-sonnet-4-6", var: "" }
+  price-threshold-alert: { enabled: true, schedule: "0 */6 * * *", model: "claude-sonnet-4-6", var: "" }
   market-context-refresh: { enabled: true, schedule: "0 13 * * *", model: "claude-sonnet-4-6" }
   narrative-tracker: { enabled: true, schedule: "30 13 * * *" }
   polymarket-comments: { enabled: false, schedule: "0 13 * * *" }
@@ -183,3 +183,4 @@ channels:
 
 telegram:
   enabled: true
+  chat_id: "8987613695"
