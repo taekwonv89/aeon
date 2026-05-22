@@ -1,0 +1,258 @@
+{
+  "root": "card",
+  "state": {},
+  "elements": {
+    "card": {
+      "type": "Card",
+      "props": {
+        "title": "Morning Brief — 2026-05-22"
+      },
+      "children": [
+        "main-stack"
+      ]
+    },
+    "main-stack": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "md"
+      },
+      "children": [
+        "focus-heading",
+        "focus-stack",
+        "sep1",
+        "yesterday-heading",
+        "yesterday-stack",
+        "sep2",
+        "watch-heading",
+        "watch-text",
+        "sep3",
+        "running-heading",
+        "running-stack"
+      ]
+    },
+    "focus-heading": {
+      "type": "Heading",
+      "props": {
+        "text": "Focus today",
+        "level": "h2"
+      },
+      "children": []
+    },
+    "focus-stack": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "focus-1",
+        "focus-2",
+        "focus-3"
+      ]
+    },
+    "focus-1": {
+      "type": "Text",
+      "props": {
+        "text": "1. Crypto skills 첫 실행 — why now: token-movers·narrative-tracker 12–13 UTC 첫 데이터",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "focus-2": {
+      "type": "Text",
+      "props": {
+        "text": "2. STATUS=DEGRADED 해제 — why now: 오늘 스킬들 성공해야만 클리어됨",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "focus-3": {
+      "type": "Text",
+      "props": {
+        "text": "3. background: reg-monitor 비활성화 — SEC 토큰 분류 가이드 + CLARITY Act 상원 진행 중",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "sep1": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      },
+      "children": []
+    },
+    "yesterday-heading": {
+      "type": "Heading",
+      "props": {
+        "text": "Since yesterday",
+        "level": "h2"
+      },
+      "children": []
+    },
+    "yesterday-stack": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "yesterday-1",
+        "yesterday-2",
+        "yesterday-3"
+      ]
+    },
+    "yesterday-1": {
+      "type": "Text",
+      "props": {
+        "text": "[성공] Heartbeat 첫 실행 04:05 UTC — cron-state.json 첫 엔트리 기록",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "yesterday-2": {
+      "type": "Text",
+      "props": {
+        "text": "[이슈] STATUS_PAGE=DEGRADED — 13개 스킬 전체 실행 이력 없음",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "yesterday-3": {
+      "type": "Text",
+      "props": {
+        "text": "[확인] Telegram 양방향 확인 완료",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "sep2": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      },
+      "children": []
+    },
+    "watch-heading": {
+      "type": "Heading",
+      "props": {
+        "text": "Watch",
+        "level": "h2"
+      },
+      "children": []
+    },
+    "watch-text": {
+      "type": "Text",
+      "props": {
+        "text": "SEC 토큰 분류 공식 가이드 발표 + CLARITY Act 상원 통과 진행 — reg-monitor 꺼진 상태; 포트폴리오 토큰 재분류 리스크 수동 체크 필요 (#3)",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "sep3": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      },
+      "children": []
+    },
+    "running-heading": {
+      "type": "Heading",
+      "props": {
+        "text": "Running today",
+        "level": "h2"
+      },
+      "children": []
+    },
+    "running-stack": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "running-1",
+        "running-2",
+        "running-3",
+        "running-4",
+        "running-5",
+        "running-6",
+        "running-7",
+        "running-8",
+        "running-9"
+      ]
+    },
+    "running-1": {
+      "type": "Text",
+      "props": {
+        "text": "morning-brief @ 07:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-2": {
+      "type": "Text",
+      "props": {
+        "text": "price-threshold-alert @ 12:00, 18:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-3": {
+      "type": "Text",
+      "props": {
+        "text": "heartbeat @ 08:00, 14:00, 20:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-4": {
+      "type": "Text",
+      "props": {
+        "text": "token-movers @ 12:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-5": {
+      "type": "Text",
+      "props": {
+        "text": "token-report @ 12:30 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-6": {
+      "type": "Text",
+      "props": {
+        "text": "market-context-refresh @ 13:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-7": {
+      "type": "Text",
+      "props": {
+        "text": "narrative-tracker @ 13:30 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-8": {
+      "type": "Text",
+      "props": {
+        "text": "reflect @ 18:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    },
+    "running-9": {
+      "type": "Text",
+      "props": {
+        "text": "evening-recap @ 21:00 UTC",
+        "variant": "body"
+      },
+      "children": []
+    }
+  }
+}
