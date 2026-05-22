@@ -44,6 +44,13 @@
   },
   "market-context-refresh": {
     "last_dispatch": "2026-05-22T13:15:13Z",
-    "last_status": "dispatched"
+    "last_status": "failed",
+    "last_failed": "2026-05-22T13:26:05Z",
+    "total_runs": 1,
+    "total_successes": 0,
+    "total_failures": 1,
+    "consecutive_failures": 1,
+    "success_rate": 0,
+    "last_error": "\":4872,\"cacheReadInputTokens\":0,\"cacheCreationInputTokens\":0,\"webSearchRequests\":2,\"costUSD\":0.301049,\"contextWindow\":200000,\"maxOutputTokens\":32000},\"claude-sonnet-4-6\":{\"inputTokens\":2252,\"outputTok"
   }
 }
