@@ -184,3 +184,4 @@ channels:
 telegram:
   enabled: true
   chat_id: "8987613695"
+  bot_token_secret: TELEGRAM_BOT_TOKEN
