@@ -1,0 +1,177 @@
+{
+  "root": "card-main",
+  "state": {},
+  "elements": {
+    "card-main": {
+      "type": "Card",
+      "props": {
+        "title": "heartbeat"
+      },
+      "children": [
+        "status-badge",
+        "sep-1",
+        "alert-p0",
+        "sep-2",
+        "p3-section"
+      ]
+    },
+    "status-badge": {
+      "type": "Badge",
+      "props": {
+        "text": "🔴 DEGRADED",
+        "variant": "destructive"
+      }
+    },
+    "sep-1": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "alert-p0": {
+      "type": "Alert",
+      "props": {
+        "title": "P0: heartbeat 미실행",
+        "message": "cron-state.json에 last_success 없음. 스케줄러가 한 번도 실행 안 됨.",
+        "type": "error"
+      }
+    },
+    "sep-2": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "p3-section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "md"
+      },
+      "children": [
+        "p3-title",
+        "skills-stack"
+      ]
+    },
+    "p3-title": {
+      "type": "Text",
+      "props": {
+        "text": "P3: enabled 스킬 13개 전부 미실행",
+        "variant": "lead"
+      }
+    },
+    "skills-stack": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "skill-1",
+        "skill-2",
+        "skill-3",
+        "skill-4",
+        "skill-5",
+        "skill-6",
+        "skill-7",
+        "skill-8",
+        "skill-9",
+        "skill-10",
+        "skill-11",
+        "skill-12",
+        "skill-13"
+      ]
+    },
+    "skill-1": {
+      "type": "Badge",
+      "props": {
+        "text": "morning-brief",
+        "variant": "outline"
+      }
+    },
+    "skill-2": {
+      "type": "Badge",
+      "props": {
+        "text": "token-movers",
+        "variant": "outline"
+      }
+    },
+    "skill-3": {
+      "type": "Badge",
+      "props": {
+        "text": "token-report",
+        "variant": "outline"
+      }
+    },
+    "skill-4": {
+      "type": "Badge",
+      "props": {
+        "text": "price-threshold-alert",
+        "variant": "outline"
+      }
+    },
+    "skill-5": {
+      "type": "Badge",
+      "props": {
+        "text": "market-context-refresh",
+        "variant": "outline"
+      }
+    },
+    "skill-6": {
+      "type": "Badge",
+      "props": {
+        "text": "narrative-tracker",
+        "variant": "outline"
+      }
+    },
+    "skill-7": {
+      "type": "Badge",
+      "props": {
+        "text": "reg-monitor",
+        "variant": "outline"
+      }
+    },
+    "skill-8": {
+      "type": "Badge",
+      "props": {
+        "text": "self-improve",
+        "variant": "outline"
+      }
+    },
+    "skill-9": {
+      "type": "Badge",
+      "props": {
+        "text": "reflect",
+        "variant": "outline"
+      }
+    },
+    "skill-10": {
+      "type": "Badge",
+      "props": {
+        "text": "evening-recap",
+        "variant": "outline"
+      }
+    },
+    "skill-11": {
+      "type": "Badge",
+      "props": {
+        "text": "cost-report",
+        "variant": "outline"
+      }
+    },
+    "skill-12": {
+      "type": "Badge",
+      "props": {
+        "text": "weekly-review",
+        "variant": "outline"
+      }
+    },
+    "skill-13": {
+      "type": "Badge",
+      "props": {
+        "text": "heartbeat",
+        "variant": "outline"
+      }
+    }
+  }
+}
