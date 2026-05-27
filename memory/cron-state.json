@@ -62,13 +62,13 @@
   "market-context-refresh": {
     "last_dispatch": "2026-05-23T14:20:08Z",
     "last_status": "failed",
-    "last_failed": "2026-05-27T01:31:22Z",
-    "total_runs": 40,
+    "last_failed": "2026-05-27T05:57:46Z",
+    "total_runs": 41,
     "total_successes": 0,
-    "total_failures": 40,
-    "consecutive_failures": 40,
+    "total_failures": 41,
+    "consecutive_failures": 41,
     "success_rate": 0,
-    "last_error": "e33eb88\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_error": "f45fe59\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "reflect": {
     "last_status": "failed",
