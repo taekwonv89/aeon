@@ -126,12 +126,12 @@
   },
   "reg-monitor": {
     "last_status": "failed",
-    "last_failed": "2026-06-08T02:01:05Z",
-    "total_runs": 63,
+    "last_failed": "2026-06-08T06:55:52Z",
+    "total_runs": 64,
     "total_successes": 0,
-    "total_failures": 63,
-    "consecutive_failures": 63,
+    "total_failures": 64,
+    "consecutive_failures": 64,
     "success_rate": 0,
-    "last_error": "6bdd2e5\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_error": "b966a51\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   }
 }
