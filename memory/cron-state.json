@@ -2,14 +2,14 @@
   "heartbeat": {
     "last_status": "failed",
     "last_success": "2026-05-22T04:05:06Z",
-    "total_runs": 298,
+    "total_runs": 299,
     "total_successes": 1,
-    "total_failures": 297,
-    "consecutive_failures": 297,
+    "total_failures": 298,
+    "consecutive_failures": 298,
     "success_rate": 0,
     "last_dispatch": "2026-05-24T11:38:52Z",
-    "last_failed": "2026-06-18T12:33:17Z",
-    "last_error": "7970e1a\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-06-18T16:03:03Z",
+    "last_error": "990512d\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "morning-brief": {
     "last_dispatch": "2026-05-24T10:06:03Z",
