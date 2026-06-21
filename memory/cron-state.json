@@ -116,13 +116,13 @@
   },
   "weekly-review": {
     "last_status": "failed",
-    "last_failed": "2026-06-21T07:01:20Z",
-    "total_runs": 286,
+    "last_failed": "2026-06-21T10:38:37Z",
+    "total_runs": 288,
     "total_successes": 0,
-    "total_failures": 286,
-    "consecutive_failures": 286,
+    "total_failures": 288,
+    "consecutive_failures": 288,
     "success_rate": 0,
-    "last_error": "72df64e\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_error": "a63b8d9\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "reg-monitor": {
     "last_status": "failed",
