@@ -83,13 +83,13 @@
   },
   "evening-recap": {
     "last_status": "failed",
-    "last_failed": "2026-06-25T12:15:50Z",
-    "total_runs": 388,
+    "last_failed": "2026-06-25T15:18:43Z",
+    "total_runs": 389,
     "total_successes": 0,
-    "total_failures": 388,
-    "consecutive_failures": 388,
+    "total_failures": 389,
+    "consecutive_failures": 389,
     "success_rate": 0,
-    "last_error": "63b9c4d\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
+    "last_error": "babc16d\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
     "last_dispatch": "2026-05-24T11:38:52Z"
   },
   "narrative-tracker": {
