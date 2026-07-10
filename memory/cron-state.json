@@ -39,13 +39,13 @@
     "last_dispatch": "2026-05-23T14:20:08Z",
     "last_status": "failed",
     "last_success": "2026-05-22T13:26:29Z",
-    "total_runs": 538,
+    "total_runs": 540,
     "total_successes": 1,
-    "total_failures": 537,
-    "consecutive_failures": 537,
+    "total_failures": 539,
+    "consecutive_failures": 539,
     "success_rate": 0,
-    "last_failed": "2026-07-10T00:07:56Z",
-    "last_error": "81f1dcc\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-10T04:10:31Z",
+    "last_error": "f12e444\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "token-report": {
     "last_dispatch": "2026-05-23T14:20:08Z",
