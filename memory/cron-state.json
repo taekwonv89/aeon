@@ -95,13 +95,13 @@
   "narrative-tracker": {
     "last_dispatch": "2026-05-23T17:40:29Z",
     "last_status": "failed",
-    "last_failed": "2026-07-15T10:24:27Z",
-    "total_runs": 657,
+    "last_failed": "2026-07-15T11:56:16Z",
+    "total_runs": 658,
     "total_successes": 0,
-    "total_failures": 657,
-    "consecutive_failures": 657,
+    "total_failures": 658,
+    "consecutive_failures": 658,
     "success_rate": 0,
-    "last_error": "7c8f08a\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_error": "065a3e8\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "self-improve": {
     "last_status": "failed",
