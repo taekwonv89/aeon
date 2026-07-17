@@ -25,15 +25,15 @@
   },
   "price-threshold-alert": {
     "last_dispatch": "2026-07-17T12:51:13Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-05-22T13:21:07Z",
-    "total_runs": 712,
+    "total_runs": 713,
     "total_successes": 2,
-    "total_failures": 710,
-    "consecutive_failures": 710,
+    "total_failures": 711,
+    "consecutive_failures": 711,
     "success_rate": 0,
-    "last_failed": "2026-07-17T11:52:05Z",
-    "last_error": "733fa0c\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-17T12:54:35Z",
+    "last_error": "88955f7\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "token-movers": {
     "last_dispatch": "2026-07-17T12:51:13Z",
