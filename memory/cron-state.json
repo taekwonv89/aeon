@@ -49,15 +49,15 @@
   },
   "token-report": {
     "last_dispatch": "2026-07-17T16:53:55Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-05-22T13:19:25Z",
-    "total_runs": 718,
+    "total_runs": 719,
     "total_successes": 1,
-    "total_failures": 717,
-    "consecutive_failures": 717,
+    "total_failures": 718,
+    "consecutive_failures": 718,
     "success_rate": 0,
-    "last_failed": "2026-07-17T15:53:05Z",
-    "last_error": "a7c6d0c\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-17T16:57:23Z",
+    "last_error": "2a5222d\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "market-context-refresh": {
     "last_dispatch": "2026-07-17T16:53:55Z",
