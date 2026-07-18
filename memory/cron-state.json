@@ -82,14 +82,14 @@
     "last_dispatch": "2026-07-18T15:47:18Z"
   },
   "evening-recap": {
-    "last_status": "dispatched",
-    "last_failed": "2026-07-18T14:57:47Z",
-    "total_runs": 766,
+    "last_status": "failed",
+    "last_failed": "2026-07-18T15:51:06Z",
+    "total_runs": 768,
     "total_successes": 0,
-    "total_failures": 766,
-    "consecutive_failures": 766,
+    "total_failures": 768,
+    "consecutive_failures": 768,
     "success_rate": 0,
-    "last_error": "f759698\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
+    "last_error": "fb48e5e\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
     "last_dispatch": "2026-07-18T15:47:18Z"
   },
   "narrative-tracker": {
