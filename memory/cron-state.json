@@ -13,15 +13,15 @@
   },
   "morning-brief": {
     "last_dispatch": "2026-07-17T23:59:37Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-05-22T08:02:09Z",
-    "total_runs": 635,
+    "total_runs": 636,
     "total_successes": 1,
-    "total_failures": 634,
-    "consecutive_failures": 634,
+    "total_failures": 635,
+    "consecutive_failures": 635,
     "success_rate": 0,
-    "last_failed": "2026-07-17T23:05:13Z",
-    "last_error": "c949841\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-18T00:02:46Z",
+    "last_error": "90db6cb\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "price-threshold-alert": {
     "last_dispatch": "2026-07-17T23:59:37Z",
