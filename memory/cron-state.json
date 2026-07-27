@@ -94,12 +94,12 @@
   },
   "narrative-tracker": {
     "last_dispatch": "2026-07-27T20:55:13Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-07-27T19:50:14Z",
-    "total_runs": 909,
+    "last_status": "failed",
+    "last_failed": "2026-07-27T20:58:47Z",
+    "total_runs": 911,
     "total_successes": 0,
-    "total_failures": 909,
-    "consecutive_failures": 909,
+    "total_failures": 911,
+    "consecutive_failures": 911,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
