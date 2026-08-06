@@ -82,12 +82,12 @@
     "last_dispatch": "2026-08-06T00:53:27Z"
   },
   "evening-recap": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-05T23:33:43Z",
-    "total_runs": 1099,
+    "last_status": "failed",
+    "last_failed": "2026-08-06T00:57:13Z",
+    "total_runs": 1101,
     "total_successes": 0,
-    "total_failures": 1099,
-    "consecutive_failures": 1099,
+    "total_failures": 1101,
+    "consecutive_failures": 1101,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
     "last_dispatch": "2026-08-06T00:53:27Z"
