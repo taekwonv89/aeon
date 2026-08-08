@@ -1,19 +1,19 @@
 {
   "heartbeat": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T04:05:06Z",
     "total_runs": 1072,
     "total_successes": 1,
     "total_failures": 1071,
     "consecutive_failures": 1071,
     "success_rate": 0,
-    "last_dispatch": "2026-08-08T02:31:58Z",
+    "last_dispatch": "2026-08-08T03:52:37Z",
     "last_failed": "2026-08-08T02:35:48Z",
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "morning-brief": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T08:02:09Z",
     "total_runs": 998,
     "total_successes": 1,
@@ -24,8 +24,8 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "price-threshold-alert": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T13:21:07Z",
     "total_runs": 1119,
     "total_successes": 2,
@@ -36,8 +36,8 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "token-movers": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T13:26:29Z",
     "total_runs": 1026,
     "total_successes": 1,
@@ -48,8 +48,8 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "token-report": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T13:19:25Z",
     "total_runs": 1038,
     "total_successes": 1,
@@ -60,8 +60,8 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "market-context-refresh": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:34Z",
     "total_runs": 1126,
     "total_successes": 0,
@@ -71,7 +71,7 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "reflect": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:40Z",
     "total_runs": 1126,
     "total_successes": 0,
@@ -79,10 +79,10 @@
     "consecutive_failures": 1126,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   },
   "evening-recap": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:42Z",
     "total_runs": 1150,
     "total_successes": 0,
@@ -90,11 +90,11 @@
     "consecutive_failures": 1150,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   },
   "narrative-tracker": {
-    "last_dispatch": "2026-08-08T02:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-08-08T03:52:37Z",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:31Z",
     "total_runs": 1123,
     "total_successes": 0,
@@ -104,7 +104,7 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "self-improve": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:31Z",
     "total_runs": 1089,
     "total_successes": 0,
@@ -112,10 +112,10 @@
     "consecutive_failures": 1089,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   },
   "weekly-review": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:42Z",
     "total_runs": 1051,
     "total_successes": 0,
@@ -123,10 +123,10 @@
     "consecutive_failures": 1051,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   },
   "reg-monitor": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:35:43Z",
     "total_runs": 950,
     "total_successes": 0,
@@ -134,10 +134,10 @@
     "consecutive_failures": 950,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   },
   "cost-report": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-08-08T02:40:42Z",
     "total_runs": 858,
     "total_successes": 0,
@@ -145,6 +145,6 @@
     "consecutive_failures": 858,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
-    "last_dispatch": "2026-08-08T02:31:58Z"
+    "last_dispatch": "2026-08-08T03:52:37Z"
   }
 }
