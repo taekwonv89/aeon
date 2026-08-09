@@ -115,12 +115,12 @@
     "last_dispatch": "2026-08-09T22:48:39Z"
   },
   "weekly-review": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-09T21:48:37Z",
-    "total_runs": 1106,
+    "last_status": "failed",
+    "last_failed": "2026-08-09T22:52:36Z",
+    "total_runs": 1107,
     "total_successes": 0,
-    "total_failures": 1106,
-    "consecutive_failures": 1106,
+    "total_failures": 1107,
+    "consecutive_failures": 1107,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
     "last_dispatch": "2026-08-09T22:48:39Z"
