@@ -71,12 +71,12 @@
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "reflect": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-15T02:49:31Z",
-    "total_runs": 1355,
+    "last_status": "failed",
+    "last_failed": "2026-08-15T03:28:02Z",
+    "total_runs": 1357,
     "total_successes": 0,
-    "total_failures": 1355,
-    "consecutive_failures": 1355,
+    "total_failures": 1357,
+    "consecutive_failures": 1357,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
     "last_dispatch": "2026-08-15T03:24:22Z"
