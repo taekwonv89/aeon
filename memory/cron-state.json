@@ -126,12 +126,12 @@
     "last_dispatch": "2026-08-15T21:50:06Z"
   },
   "reg-monitor": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-15T21:11:11Z",
-    "total_runs": 1202,
+    "last_status": "failed",
+    "last_failed": "2026-08-15T21:53:42Z",
+    "total_runs": 1205,
     "total_successes": 0,
-    "total_failures": 1202,
-    "consecutive_failures": 1202,
+    "total_failures": 1205,
+    "consecutive_failures": 1205,
     "success_rate": 0,
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"",
     "last_dispatch": "2026-08-15T21:50:06Z"
