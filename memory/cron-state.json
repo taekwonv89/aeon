@@ -13,14 +13,14 @@
   },
   "morning-brief": {
     "last_dispatch": "2026-08-17T02:20:03Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-05-22T08:02:09Z",
-    "total_runs": 1251,
+    "total_runs": 1253,
     "total_successes": 1,
-    "total_failures": 1250,
-    "consecutive_failures": 1250,
+    "total_failures": 1252,
+    "consecutive_failures": 1252,
     "success_rate": 0,
-    "last_failed": "2026-08-17T01:01:24Z",
+    "last_failed": "2026-08-17T02:23:22Z",
     "last_error": "service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\""
   },
   "price-threshold-alert": {
