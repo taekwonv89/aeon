@@ -126,12 +126,12 @@
     "last_dispatch": "2026-08-21T05:36:23Z"
   },
   "reg-monitor": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-21T05:02:43Z",
-    "total_runs": 1431,
+    "last_status": "failed",
+    "last_failed": "2026-08-21T05:40:11Z",
+    "total_runs": 1432,
     "total_successes": 0,
-    "total_failures": 1431,
-    "consecutive_failures": 1431,
+    "total_failures": 1432,
+    "consecutive_failures": 1432,
     "success_rate": 0,
     "last_error": "n_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"par",
     "last_dispatch": "2026-08-21T05:36:23Z"
