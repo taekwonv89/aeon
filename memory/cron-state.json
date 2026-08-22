@@ -115,12 +115,12 @@
     "last_dispatch": "2026-08-22T11:07:49Z"
   },
   "weekly-review": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-22T10:33:47Z",
-    "total_runs": 1533,
+    "last_status": "failed",
+    "last_failed": "2026-08-22T11:11:47Z",
+    "total_runs": 1534,
     "total_successes": 0,
-    "total_failures": 1533,
-    "consecutive_failures": 1533,
+    "total_failures": 1534,
+    "consecutive_failures": 1534,
     "success_rate": 0,
     "last_error": "n_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"par",
     "last_dispatch": "2026-08-22T11:07:49Z"
