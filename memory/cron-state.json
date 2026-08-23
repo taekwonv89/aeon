@@ -82,12 +82,12 @@
     "last_dispatch": "2026-08-23T02:12:00Z"
   },
   "evening-recap": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-23T09:40:37Z",
-    "total_runs": 1709,
+    "last_status": "failed",
+    "last_failed": "2026-08-23T10:24:46Z",
+    "total_runs": 1711,
     "total_successes": 0,
-    "total_failures": 1709,
-    "consecutive_failures": 1709,
+    "total_failures": 1711,
+    "consecutive_failures": 1711,
     "success_rate": 0,
     "last_error": "n_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"par",
     "last_dispatch": "2026-08-23T10:20:58Z"
