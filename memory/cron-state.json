@@ -82,14 +82,14 @@
     "last_dispatch": "2026-08-28T12:39:53Z"
   },
   "evening-recap": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-28T01:04:52Z",
-    "total_runs": 1836,
+    "last_status": "failed",
+    "last_failed": "2026-08-28T12:43:40Z",
+    "total_runs": 1837,
     "total_successes": 0,
-    "total_failures": 1836,
-    "consecutive_failures": 1836,
+    "total_failures": 1837,
+    "consecutive_failures": 1837,
     "success_rate": 0,
-    "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
+    "last_error": "stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"syste",
     "last_dispatch": "2026-08-28T12:39:53Z"
   },
   "narrative-tracker": {
