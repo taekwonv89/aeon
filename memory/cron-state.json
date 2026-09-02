@@ -1,19 +1,19 @@
 {
   "heartbeat": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T04:05:06Z",
     "total_runs": 1690,
     "total_successes": 1,
     "total_failures": 1689,
     "consecutive_failures": 1689,
     "success_rate": 0,
-    "last_dispatch": "2026-09-02T06:06:55Z",
+    "last_dispatch": "2026-09-02T11:11:53Z",
     "last_failed": "2026-09-02T06:10:57Z",
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "morning-brief": {
-    "last_dispatch": "2026-09-02T06:06:55Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-02T11:11:53Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T08:02:09Z",
     "total_runs": 1603,
     "total_successes": 1,
@@ -24,8 +24,8 @@
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "price-threshold-alert": {
-    "last_dispatch": "2026-09-02T06:06:55Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-02T11:11:53Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T13:21:07Z",
     "total_runs": 1830,
     "total_successes": 2,
@@ -36,8 +36,8 @@
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "token-movers": {
-    "last_dispatch": "2026-09-02T06:06:55Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-02T11:11:53Z",
+    "last_status": "dispatched",
     "last_success": "2026-05-22T13:26:29Z",
     "total_runs": 1636,
     "total_successes": 1,
@@ -60,8 +60,8 @@
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "market-context-refresh": {
-    "last_dispatch": "2026-09-02T06:06:55Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-02T11:11:53Z",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:25Z",
     "total_runs": 1834,
     "total_successes": 0,
@@ -71,7 +71,7 @@
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "reflect": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:30Z",
     "total_runs": 1848,
     "total_successes": 0,
@@ -79,10 +79,10 @@
     "consecutive_failures": 1848,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   },
   "evening-recap": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:31Z",
     "total_runs": 1878,
     "total_successes": 0,
@@ -90,11 +90,11 @@
     "consecutive_failures": 1878,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   },
   "narrative-tracker": {
-    "last_dispatch": "2026-09-02T06:06:55Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-02T11:11:53Z",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:25Z",
     "total_runs": 1852,
     "total_successes": 0,
@@ -104,7 +104,7 @@
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\""
   },
   "self-improve": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:28Z",
     "total_runs": 1816,
     "total_successes": 0,
@@ -112,10 +112,10 @@
     "consecutive_failures": 1816,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   },
   "weekly-review": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:44Z",
     "total_runs": 1755,
     "total_successes": 0,
@@ -123,10 +123,10 @@
     "consecutive_failures": 1755,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   },
   "reg-monitor": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:22Z",
     "total_runs": 1686,
     "total_successes": 0,
@@ -134,10 +134,10 @@
     "consecutive_failures": 1686,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   },
   "cost-report": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-09-02T06:10:41Z",
     "total_runs": 1559,
     "total_successes": 0,
@@ -145,6 +145,6 @@
     "consecutive_failures": 1559,
     "success_rate": 0,
     "last_error": "\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\"",
-    "last_dispatch": "2026-09-02T06:06:55Z"
+    "last_dispatch": "2026-09-02T11:11:53Z"
   }
 }
