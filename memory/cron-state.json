@@ -71,12 +71,12 @@
     "last_error": ",\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\":0,\"concurrency_l"
   },
   "reflect": {
-    "last_status": "dispatched",
-    "last_failed": "2026-09-12T21:43:26Z",
-    "total_runs": 1954,
+    "last_status": "failed",
+    "last_failed": "2026-09-12T23:25:22Z",
+    "total_runs": 1956,
     "total_successes": 0,
-    "total_failures": 1954,
-    "consecutive_failures": 1954,
+    "total_failures": 1956,
+    "consecutive_failures": 1956,
     "success_rate": 0,
     "last_error": ",\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\":0,\"concurrency_l",
     "last_dispatch": "2026-09-12T23:21:37Z"
