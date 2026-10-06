@@ -71,14 +71,14 @@
     "last_error": "unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\":0,\"concurrency_limit\":0,\"budget\":"
   },
   "reflect": {
-    "last_status": "dispatched",
-    "last_failed": "2026-10-06T14:40:13Z",
-    "total_runs": 2139,
+    "last_status": "failed",
+    "last_failed": "2026-10-06T23:24:26Z",
+    "total_runs": 2141,
     "total_successes": 0,
-    "total_failures": 2139,
-    "consecutive_failures": 2139,
+    "total_failures": 2141,
+    "consecutive_failures": 2141,
     "success_rate": 0,
-    "last_error": ",\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\":0,\"concurrency_l",
+    "last_error": "unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"depth_limit\":0,\"concurrency_limit\":0,\"budget\":",
     "last_dispatch": "2026-10-06T23:20:55Z"
   },
   "evening-recap": {
